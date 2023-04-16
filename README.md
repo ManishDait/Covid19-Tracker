@@ -1,4 +1,4 @@
-# COVID-19 Tracker Webapp
+# COVID-19 Tracker
 
 This is a web application made using the Spring framework to track the spread of COVID-19 worldwide. The application uses real-time data from the [Given csv](https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_confirmed_global.csv) and displays it in the form of tables. 
 
